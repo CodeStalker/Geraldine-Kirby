@@ -1,0 +1,17 @@
+Title: Geraldine
+
+----
+
+Author: James Steel
+
+----
+
+Description: A Simple Blog Theme.
+
+----
+
+Keywords: Kirby, CMS, file-based
+
+----
+
+Copyright: © 2014
